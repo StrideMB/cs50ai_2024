@@ -1,0 +1,1 @@
+nd(AKnight, Implication(AKnight, AKnave)), And(AKnave,Implication(AKnave, Not(AKnave)
